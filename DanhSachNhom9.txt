@@ -1,0 +1,9 @@
+7302;Huynh Thien Bao;CNTT;6.30
+7309;Hoang Minh Hieu;CNTT;7.90
+7304;Tran Tien Hop;CNTT;1.90
+7301;Pham Quoc Khanh;CNTT;8.30
+7308;Nguyen Tuan Kiet;CNTT;6.40
+7306;Nguyen Minh Phu;CNTT;4.30
+7305;Vo Hoang Phuc;CNTT;9.40
+7303;Do Nhat Thanh;CNTT;2.30
+7307;Le Nhut Truong;CNTT;7.20
